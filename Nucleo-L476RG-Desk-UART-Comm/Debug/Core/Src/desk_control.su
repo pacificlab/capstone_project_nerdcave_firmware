@@ -1,0 +1,3 @@
+../Core/Src/desk_control.c:13:5:upliftDecoder	40	static
+../Core/Src/desk_control.c:48:18:addProfile	32	static
+../Core/Src/desk_control.c:61:18:addProfiles	40	static

@@ -1,0 +1,3 @@
+../Core/Src/desk_control.c:13:5:upliftDecoder	6
+../Core/Src/desk_control.c:48:18:addProfile	1
+../Core/Src/desk_control.c:61:18:addProfiles	3

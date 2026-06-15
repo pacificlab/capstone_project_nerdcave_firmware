@@ -1,0 +1,3 @@
+../Core/Src/card_rfid.c:12:6:valid_id	8	static
+../Core/Src/card_rfid.c:20:6:invalid_id	8	static
+../Core/Src/card_rfid.c:27:10:buf_to_num	48	static

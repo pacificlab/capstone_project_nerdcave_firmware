@@ -1,0 +1,3 @@
+../Core/Src/store_flash_data.c:20:6:store_flash_memory	8
+../Core/Src/store_flash_data.c:69:6:read_flash_memory	2
+../Core/Src/store_flash_data.c:78:6:parse_for_profile	3
